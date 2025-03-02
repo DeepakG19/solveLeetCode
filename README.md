@@ -1,1 +1,1 @@
-# solveLeetCode
+# SolveLeetCode
